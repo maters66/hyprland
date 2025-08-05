@@ -14,6 +14,7 @@ yay -S hyprshot wlogout
 # Step 2
 ```
 cd Докуметы
+git clone https://github.com/maters66/hyprland.git
 git clone https://github.com/vinceliuice/Graphite-gtk-theme.git
 yay -S Rose-Pine
 ```
