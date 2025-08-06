@@ -23,7 +23,7 @@ yay -S Rose-Pine
 # Step 3
 ```
 cd hypr
-cp -r kitty waybar wlogout hypr lockscreen wofi swaylock rofi kitty fastfetch ./config
+cp -r kitty waybar wlogout hypr wofi swaylock rofi kitty fastfetch ./config
 ```
 
 
